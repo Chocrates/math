@@ -1,5 +1,6 @@
 "use strict";
 
+
 /**
  * Add up all the arguments
  */

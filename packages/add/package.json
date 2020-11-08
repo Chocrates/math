@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "@jasonmacgowan/math-core": "^0.1.0"
-  }
+  },
+  "gitHead": "1c169b35e6abbb241afd0fd483862836c48d03e7"
 }
